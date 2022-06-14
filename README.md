@@ -4,6 +4,7 @@
 ## Currently I'm working on:
 - [@plainDE](https://plainde.org)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles)
+- [ArchLinux installer](https://ivabus/ivabus-arch-installer)
 - and [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 
 ## To contact me, you can use:
