@@ -5,10 +5,10 @@
 - [@plainDE](https://plainde.org)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles)
 - [ArchLinux installer](https://github.com/ivabus/ivabus-arch-installer)
-- and [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 
 ## What I've already done
 - [Roulette](https://github.com/ivabus/roulette) game
+- [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 
 ## To contact me, you can use:
 - Email: <ivabus@ivabus.dev>
