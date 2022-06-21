@@ -17,3 +17,7 @@
 - VK: [@ivabus](https://vk.com/ivabus)
 
 Besides, I have a [blog](https://ivabus.dev).
+
+---
+
+GPG Key ID: `3E4E9C7D66E44BF7`
