@@ -3,12 +3,12 @@
 
 ## Currently I'm working on:
 - [@plainDE](https://plainde.org)
-- [my dotfiles](https://github.com/ivabus/ivabus-dotfiles)
 - [ArchLinux installer](https://github.com/ivabus/ivabus-arch-installer)
 
 ## What I've already done
 - [Roulette](https://github.com/ivabus/roulette) game
 - [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
+- [my dotfiles](https://github.com/ivabus/ivabus-dotfiles) (keep updating)
 
 ## To contact me, you can use:
 - Email: <ivabus@ivabus.dev>
