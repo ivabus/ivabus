@@ -1,11 +1,13 @@
 
 # Hi, I'm Ivan Bushchik
 
-## Currently I'm working on
+## Work
+
+### Currently I'm working on
 - [@plainDE](https://plainde.org)
 - [ArchLinux installer](https://github.com/ivabus/ivabus-arch-installer)
 
-## What I've already done
+### What I've already done
 - [Roulette](https://github.com/ivabus/roulette) game
 - [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles) (keep updating)
@@ -33,7 +35,7 @@
 - Packaging for Linux (in fact GNU/Linux, or as I've recently taken to calling it, GNU plus Linux)
 - DevOps
 
-## To contact me, you can use
+## Contact me
 - Email: <ivabus@ivabus.dev>
 - Telegram: [@BushchikIvan](https://t.me/BushchikIvan)
 - Matrix: [@ivabus:matrix.org](https://matrix.to/#/@ivabus:matrix.org)
