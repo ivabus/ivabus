@@ -1,7 +1,7 @@
 
 # Hi, I'm Ivan Bushchik
 
-## Currently I'm working on:
+## Currently I'm working on
 - [@plainDE](https://plainde.org)
 - [ArchLinux installer](https://github.com/ivabus/ivabus-arch-installer)
 
@@ -10,7 +10,12 @@
 - [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles) (keep updating)
 
-## To contact me, you can use:
+## What I know
+- Linux (in fact GNU/Linux, or as I've recently taken to calling it, GNU plus Linux)
+- sh/bash/zsh
+- C++ pre OOP
+
+## To contact me, you can use
 - Email: <ivabus@ivabus.dev>
 - Telegram: [@BushchikIvan](https://t.me/BushchikIvan)
 - Matrix: [@ivabus:matrix.org](https://matrix.to/#/@ivabus:matrix.org)
