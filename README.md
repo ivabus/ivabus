@@ -13,7 +13,15 @@
 ## What I know
 - Linux (in fact GNU/Linux, or as I've recently taken to calling it, GNU plus Linux)
 - sh/bash/zsh
+- Basic HTML/CSS
+- Markdown
 - C++ pre OOP
+<details>
+  <summary>I wish I didn't know</summary>
+  - Visual Basic .NET
+  - basic Swift
+  - Python
+</details>
 
 ## To contact me, you can use
 - Email: <ivabus@ivabus.dev>
