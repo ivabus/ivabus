@@ -21,7 +21,7 @@
 - Python
 - Packaging for Arch (AUR or repo)
 <details>
-  <summary>I wish I didn't know</summary>
+  <summary>I wish I didn't know</summary><br>
   
   - Visual Basic .NET
   - basic Swift
