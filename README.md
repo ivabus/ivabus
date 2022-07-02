@@ -18,6 +18,7 @@
 - C++ pre OOP
 <details>
   <summary>I wish I didn't know</summary>
+  
   - Visual Basic .NET
   - basic Swift
   - Python
