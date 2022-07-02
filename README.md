@@ -1,6 +1,10 @@
 
 # Hi, I'm Ivan Bushchik
 
+## About me
+
+I'm 15 years old learner from Saint-Petersburg, Russia.
+
 ## Work
 
 ### Currently I'm working on
@@ -22,6 +26,7 @@
 - C++ pre OOP
 - Python
 - Packaging for Arch (AUR or repo)
+- Git
 <details>
   <summary>I wish I didn't know</summary><br>
   
@@ -43,6 +48,19 @@
 
 Besides, I have a [blog](https://ivabus.dev).
 
+<div align=center>
+  
+   [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
+   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
+
+  [![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://www.apple.com/safari/)
+  [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/ru/firefox/new/)
+
+</div>
+
 ---
 <details>
   <summary>GPG key info</summary>
@@ -52,4 +70,3 @@ Besides, I have a [blog](https://ivabus.dev).
   - [Ubuntu keyserver](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x3e4e9c7d66e44bf7)
   - [OpenPGP server](https://keys.openpgp.org/vks/v1/by-fingerprint/77F2CF964D0A9F5BA3DE3D313E4E9C7D66E44BF7)
 </details>
-
