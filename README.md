@@ -16,9 +16,9 @@ I'm 15 years old learner from Saint-Petersburg, Russia.
 
 ## Work
 
-### Currently I'm working on
-- [@plainDE](https://plainde.org)
-- [ArchLinux installer](https://github.com/ivabus/ivabus-arch-installer)
+### Currently I'm
+- packaging [@plainDE](https://plainde.org)
+- discovering [@pkgMatcher](https://pkgmatchet.org)
 
 ### What I've already done
 - [Roulette](https://github.com/ivabus/roulette) game
@@ -32,6 +32,7 @@ I'm 15 years old learner from Saint-Petersburg, Russia.
 - sh/bash/zsh
 - Basic HTML/CSS
 - Markdown
+- Jekyll 
 - C++ pre OOP
 - Python
 - Packaging for Arch (AUR or repo)
