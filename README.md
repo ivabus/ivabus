@@ -1,6 +1,8 @@
 
 # Hi, I'm Ivan Bushchik
 
+# Migrated to [GitLab](https://gitlab.com/ivabus). No more main development here
+
 ## About me
 
 I'm 15 years old learner from Saint-Petersburg, Russia.
