@@ -1,7 +1,6 @@
 
 # Hi, I'm Ivan Bushchik
 
-# Migrated to [GitLab](https://gitlab.com/ivabus). No more main development here
 
 ## About me
 
