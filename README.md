@@ -18,7 +18,7 @@ I'm 15 years old learner from Saint-Petersburg, Russia.
 
 ### Currently I'm
 - packaging [@plainDE](https://plainde.org)
-- discovering [@pkgMatcher](https://pkgmatcher.dev)
+- developing [@pkgMatcher](https://pkgmatcher.dev)
 
 ### What I've already done
 - [Roulette](https://github.com/ivabus/roulette) game
