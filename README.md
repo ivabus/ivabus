@@ -18,7 +18,7 @@ I'm 15 years old learner from Saint-Petersburg, Russia.
 ### Currently I'm
 - packaging [plainDE](https://plainde.org)
 - developing [pkgMatcher](https://pkgmatcher.dev)
-- creating [bf3d](https://github.com/ivabus/bf3d)
+- creating [bf3D](https://github.com/ivabus/bf3d)
 
 ### What I've already done
 - [Roulette](https://github.com/ivabus/roulette) game
