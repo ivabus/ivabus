@@ -49,6 +49,10 @@ I'm 15 years old learner from Saint-Petersburg, Russia.
 - Packaging for Linux (in fact GNU/Linux, or as I've recently taken to calling it, GNU plus Linux)
 - DevOps
 
+## Stats & Activity
+
+![Metrics](https://raw.githubusercontent.com/ivabus/ivabus/main/github-metrics.svg)
+
 ## Contact me
 - Email: <ivabus@ivabus.dev>
 - Telegram: [@BushchikIvan](https://t.me/BushchikIvan)
