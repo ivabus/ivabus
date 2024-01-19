@@ -9,6 +9,7 @@ I'm 17 years old student from Saint-Petersburg, Russia.
 ## Work
 
 ### Currently I'm
+- Writing [synthesizer](https://github.com/ivabus/rinth) à la Yamaha YM2608
 - porting my web-services for Nix
 
 ### What I've already done
