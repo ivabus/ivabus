@@ -10,13 +10,14 @@ I'm 17 years old student from Saint-Petersburg, Russia.
 
 ### Currently I'm
 - Writing [synthesizer](https://github.com/ivabus/rinth) à la Yamaha YM2608
+- Enchancing my [music streamer](https://github.com/ivabus/lonelyradio)
 - porting my web-services for Nix
 
 ### What I've already done
 - [Roulette](https://github.com/ivabus/roulette) game
 - [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles)
-- [dynamic](https://github.com/ivabus/aliurl) and [static](https://github.com/ivabus/urouter) http routers
+- [dynamic](https://github.com/ivabus/aliurl) (dropped) and [static](https://github.com/ivabus/urouter) http routers
 
 ### I'll give it to good hands
 
