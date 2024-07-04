@@ -53,7 +53,6 @@ I'm 17 years old student from Saint-Petersburg, Russia.
 - Email: <ivabus@ivabus.dev>
 - Telegram: [@ivabus](https://ivabus.t.me)
 - Matrix: [@ivabus:matrix.org](https://matrix.to/#/@ivabus:matrix.org)
-- Mastodon: [@ivabus\@treehouse.systems](https://social.treehouse.systems/@ivabus)
 - VK: [@ivabus](https://vk.com/ivabus)
 - Discord: @ivabus
 
