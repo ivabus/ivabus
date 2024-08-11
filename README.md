@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm 17 years old student from Saint-Petersburg, Russia.
+I'm 18 years old student from Saint-Petersburg, Russia.
 
 ## Work
 
