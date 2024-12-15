@@ -10,17 +10,12 @@ I'm 18 years old student from Saint-Petersburg, Russia.
 
 ### Currently I'm
 - Enchancing my [music streamer](https://github.com/ivabus/lonelyradio)
-- porting my web-services for Nix
+- Working on some image processing utils
 
 ### What I've already done
-- [Roulette](https://github.com/ivabus/roulette) game
 - [zsh theme](https://github.com/ivabus/ivabus-zsh-theme)
 - [my dotfiles](https://github.com/ivabus/ivabus-dotfiles)
 - [dynamic](https://github.com/ivabus/aliurl) (dropped) and [static](https://github.com/ivabus/urouter) http routers
-
-### I'll give it to good hands
-
-- unfinished [openSUSE port for Apple Silicon Macs](https://github.com/ivabus/asahi-opensuse) (Contact me for detailed information)
 
 ## Skills
 
