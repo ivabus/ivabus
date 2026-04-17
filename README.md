@@ -1,11 +1,6 @@
 
 # Hi, I'm Ivan Bushchik
 
-
-## About me
-
-I'm 18 years old student from Saint-Petersburg, Russia.
-
 ## Work
 
 ### Currently I'm
