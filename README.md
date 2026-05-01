@@ -41,12 +41,10 @@
 
 ## Contact me
 - Email: <ivabus@ivabus.dev>
-- Telegram: [@ivabus](https://ivabus.t.me)
+- Telegram: [@shampoomaro](https://shampoomaro.t.me)
 - Matrix: [@ivabus:matrix.org](https://matrix.to/#/@ivabus:matrix.org)
 - VK: [@ivabus](https://vk.com/ivabus)
 - Discord: @ivabus
-
-Besides, I have a [blog](https://ivabus.dev).
 
 ---
 <details>
